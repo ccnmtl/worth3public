@@ -1,0 +1,15 @@
+#masthead { background-color: #F7ECF0; }
+
+section { padding: 3em; }
+
+#home1
+{
+	background-color: #932951;
+	color: #fff;
+	background-image: url("../img/floral-screen-025.png");
+    background-repeat: no-repeat;
+    background-position: center -50px;
+    background-attachment: static;
+}
+
+#home3 { background-color: #F7ECF0; }
